@@ -1,0 +1,6 @@
+.tag-cloud{display:flex;flex-wrap:wrap;align-items:baseline;gap:12px 22px;line-height:1.25;margin:12px 0 18px;padding:8px 0;font-family:inherit}
+.tag-cloud a{color:var(--muted);padding:5px 0;border-bottom:2px solid transparent;letter-spacing:-.025em}
+.tag-cloud a:hover,.tag-cloud a[aria-current]{color:var(--accent);border-bottom-color:var(--accent)}
+.tag-cloud .tag-large{font-size:1.65rem}.tag-cloud .tag-medium{font-size:1.3rem}.tag-cloud .tag-small,.tag-cloud [data-tag="all"]{font-size:1rem}
+.collection-status{font-size:.8rem;color:var(--muted);margin:0 0 30px}.selected .project[hidden]{display:none}
+@media(max-width:760px){.tag-cloud{gap:8px 17px}.tag-cloud .tag-large{font-size:1.4rem}.tag-cloud .tag-medium{font-size:1.15rem}}

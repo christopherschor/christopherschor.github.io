@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "tagLimit": 15,
+  "tags": [
+    "videogame",
+    "cinematic",
+    "everyday",
+    "wearable",
+    "immersive",
+    "experimental",
+    "studies",
+    "textures",
+    "philosophical",
+    "composition",
+    "sounddesign",
+    "synthesis",
+    "guitar",
+    "orchestral",
+    "narrative"
+  ],
+  "projects": [
+    {
+      "id": "delay-networks",
+      "addedOrder": 6,
+      "tags": [
+        "videogame",
+        "experimental",
+        "studies",
+        "textures",
+        "composition",
+        "sounddesign",
+        "synthesis"
+      ]
+    },
+    {
+      "id": "piano-to-orchestral",
+      "addedOrder": 5,
+      "tags": [
+        "videogame",
+        "studies",
+        "composition",
+        "orchestral"
+      ]
+    },
+    {
+      "id": "textural-guitar",
+      "addedOrder": 4,
+      "tags": [
+        "cinematic",
+        "experimental",
+        "studies",
+        "textures",
+        "composition",
+        "guitar"
+      ]
+    },
+    {
+      "id": "shutting-you-out",
+      "addedOrder": 3,
+      "tags": [
+        "cinematic",
+        "experimental",
+        "studies",
+        "textures",
+        "composition",
+        "sounddesign",
+        "synthesis"
+      ]
+    },
+    {
+      "id": "immersive-narrative",
+      "addedOrder": 2,
+      "tags": [
+        "immersive",
+        "cinematic",
+        "textures",
+        "composition",
+        "sounddesign",
+        "narrative"
+      ]
+    },
+    {
+      "id": "wearable-interaction",
+      "addedOrder": 1,
+      "tags": [
+        "wearable",
+        "everyday",
+        "studies",
+        "sounddesign",
+        "synthesis"
+      ]
+    }
+  ]
+}
