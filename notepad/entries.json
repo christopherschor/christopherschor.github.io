@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "slug": "i-want-you",
+      "title": "I Want You — Erykah Badu / Elvin T Remix",
+      "draft": false,
+      "published": "2026-11-01",
+      "updated": "2026-11-01",
+      "status": "WIP",
+      "notes": [],
+      "featuredVersion": "v1",
+      "versions": [
+        {
+          "id": "v1",
+          "label": "Temporary bounce",
+          "date": "2026-11-01",
+          "audio": "notepad/media/i-want-you/i-want-you-v1.mp3"
+        }
+      ],
+      "images": [
+        {
+          "src": "notepad/media/i-want-you/i-want-you.jpg",
+          "alt": "Iridescent stepped crystal in blue, turquoise, violet and gold against a dark textured background."
+        }
+      ],
+      "feedImage": 0
+    },
+    {
+      "slug": "audio-12-01-03",
+      "title": "Audio 12.01_03",
+      "draft": false,
+      "published": "2026-11-01",
+      "updated": "2026-11-01",
+      "notes": [],
+      "featuredVersion": "main",
+      "versions": [
+        {
+          "id": "main",
+          "label": "Audio 12.01_03",
+          "date": "2026-11-01",
+          "audio": "notepad/media/audio-12-01-03/audio-12-01-03.mp3"
+        },
+        {
+          "id": "early-tests",
+          "label": "Early tests with Recoton filters",
+          "date": "2026-11-01",
+          "audio": "notepad/media/audio-12-01-03/early-tests-recoton-filters.mp3"
+        }
+      ],
+      "images": [
+        {
+          "src": "notepad/media/audio-12-01-03/flamingos.png",
+          "alt": "Pink flamingos on a black background with the words Clearwater Beach, Florida."
+        }
+      ],
+      "feedImage": 0
+    },
+    {
+      "slug": "such-freq",
+      "title": "such freq",
+      "draft": false,
+      "published": "2026-11-01",
+      "updated": "2026-11-01",
+      "notes": [],
+      "featuredVersion": "v1",
+      "versions": [
+        {
+          "id": "v1",
+          "label": "such freq",
+          "date": "2026-11-01",
+          "audio": "notepad/media/such-freq/such freq.mp3"
+        }
+      ],
+      "images": [
+        {
+          "src": "notepad/media/such-freq/such-freq.png",
+          "alt": "A large translucent balloon in front of a person wearing a striped top, with a bright reflection and window blinds behind them."
+        }
+      ],
+      "feedImage": 0
+    },
+    {
+      "slug": "unfinished-freya",
+      "title": "Unfinished - Freya (Elvin T Remix)",
+      "draft": false,
+      "published": "2026-11-01",
+      "updated": "2026-11-01",
+      "status": "WIP",
+      "notes": [
+        "unfinished remix for a friend's project; hope to complete somewhere early 2027"
+      ],
+      "featuredVersion": "v1",
+      "versions": [
+        {
+          "id": "v1",
+          "label": "Unfinished remix",
+          "date": "2026-11-01",
+          "audio": "notepad/media/unfinished-freya/unfinished-freya-elvin-t-remix.mp3"
+        }
+      ],
+      "images": [
+        {
+          "src": "notepad/media/unfinished-freya/unfinished-freya-clean-v2.png",
+          "alt": "Soft-focus abstract red and burgundy artwork with dark edges and a pale curved highlight near the lower left."
+        }
+      ],
+      "feedImage": 0
+    },
+    {
+      "slug": "terminating-down",
+      "title": "Unfinished - File Under Experimental/Ambient - Terminating Down (Elvin T Remix)",
+      "draft": false,
+      "published": "2026-11-01",
+      "updated": "2026-11-01",
+      "status": "WIP",
+      "notes": [],
+      "featuredVersion": "v1",
+      "versions": [
+        {
+          "id": "v1",
+          "label": "Unfinished remix",
+          "date": "2026-11-01",
+          "audio": "notepad/media/terminating-down/Unfinished - Terminating Down (Elvin T Remix).mp3"
+        }
+      ],
+      "images": [
+        {
+          "src": "notepad/media/terminating-down/borges-and-the-zahir.png",
+          "alt": "A screenshot of a quotation attributed to Borges about an object or phrase becoming unforgettable.",
+          "wide": true
+        }
+      ],
+      "feedImage": 0
+    }
+  ]
+}

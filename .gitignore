@@ -1,0 +1,4 @@
+
+# Local Python authoring/check artifacts
+__pycache__/
+*.pyc

@@ -1,0 +1,28 @@
+{
+  "slug": "i-want-you",
+  "title": "I Want You",
+  "draft": true,
+  "published": "2026-11-01",
+  "updated": "2026-11-01",
+  "status": "WIP",
+  "summary": "",
+  "notes": [],
+  "featuredVersion": "v1",
+  "versions": [
+    {
+      "id": "v1",
+      "label": "Version 01",
+      "date": "2026-11-01",
+      "audio": "notepad/media/i-want-you/v1.mp3",
+      "notes": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "notepad/media/i-want-you/image.jpg",
+      "alt": "Replace with a description of the uploaded image",
+      "caption": ""
+    }
+  ],
+  "feedImage": 0
+}

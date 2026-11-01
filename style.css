@@ -3,3 +3,6 @@
 
 /* Keep the project navigation comfortable on narrow screens. */
 nav{flex-wrap:wrap;row-gap:10px}.project+.project{border-top:0}
+
+/* Give the expanded navigation room at tablet widths. */
+@media(min-width:761px) and (max-width:1050px){.site-header{flex-wrap:wrap;padding-top:24px;padding-bottom:24px;gap:16px}}
