@@ -132,6 +132,32 @@
         }
       ],
       "feedImage": 0
+    },
+    {
+      "slug": "the-seashore-this-song",
+      "title": "The Seashore — This Song (Demo)",
+      "draft": false,
+      "published": "2026-11-02",
+      "updated": "2026-11-02",
+      "status": "Demo",
+      "notes": [],
+      "featuredVersion": "demo",
+      "versions": [
+        {
+          "id": "demo",
+          "label": "This Song (Demo)",
+          "date": "2026-11-02",
+          "audio": "notepad/media/the-seashore-this-song/this-song.mp3"
+        }
+      ],
+      "images": [
+        {
+          "src": "notepad/media/the-seashore-this-song/wawa-matchbook.jpeg",
+          "alt": "Vintage Wawa matchbook photographed against a pale surface, with the yellow Wawa logo and the words We do it just a little bit better.",
+          "caption": "Thoughts on the paradox of acceptance"
+        }
+      ],
+      "feedImage": 0
     }
   ]
 }
